@@ -1,0 +1,82 @@
+body{
+	background-color: white;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 1px;
+}
+
+h2{
+	color: black;
+	font-family: "Avenir Next";
+	margin-top: 40px;
+}
+
+h3 {
+	color: white;
+	font-family: "Helvetica Neue";
+	font-weight: lighter;
+	margin-top: 5px;
+	margin-bottom: 30px;
+}
+
+.sopra {
+	margin-top: 0;
+	color: white;
+	font-size: 45px;
+	letter-spacing: 1px;
+}
+
+.loc {
+	width: 90vw;
+	height: 60vh;
+}
+
+#back {
+	position: absolute;
+	top:5%;
+	left: 5%;
+	width: 15vw;
+	height: 5vh;
+	//background-color: black;
+}
+
+#titolo {
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	transform: translate(-50%, 0); 
+	width: 25vw;
+	height: 5vh;
+	//background-color: red;
+	}
+
+#blocco {
+	position: absolute;
+	top: 18%;
+	left: 5%;
+	width: 90vw;
+	height: 1050px;
+	//background-color: blue;
+}
+
+#intro {
+	font-weight: bolder;
+	text-align: center;
+	margin-top: 2.5vh;
+	}
+
+#outro {
+	font-family: "Helvetica Neue";
+	font-size: 25px;
+	font-weight: lighter;
+	text-align: center;
+}

@@ -1,0 +1,171 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	font-size: 45px;
+	font-family: "Avenir Next";
+	text-align: center;
+	font-weight: medium;
+	letter-spacing: 1px;
+  	color: black;
+	margin-top: 40px;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Helvetica Neue";
+	font-weight: lighter;
+	text-align: center;
+	color: black;
+	margin-top: 40px;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	letter-spacing: 1px;
+}
+
+p {
+	font-family: "Helvetica Neue";
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 67px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-width: 0px;
+	-webkit-text-stroke-color: black;
+}
+
+div a{
+	opacity: 0;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+div a:hover {
+	opacity: 1;
+	color: white;
+	text-decoration: none;
+}
+
+div {
+	text-align: center;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-family: "Avenir Next";
+	font-weight: bolder;
+	font-size: 90px;
+}
+
+li {
+	list-style: none;
+	margin: 30px;
+}
+
+#hoo {
+	background: url("hooligans.jpg");
+	background-size: 45%;
+	background-position: center center;
+}
+
+#hoo:hover {
+	background: black;
+}
+
+#ber {
+	background: url("berlin.jpg");
+	background-size: 45%;
+	background-position: center bottom;
+}
+
+#ber:hover {
+	background: black;
+}
+
+#dre {
+	background: url("dreamers.jpg");
+	background-position: center center;
+	background-size: 50%;
+}
+
+#dre:hover {
+	background: black;
+}
+
+#fig {
+	background: url("fight.jpg");
+	background-position: center center;
+	background-size: 60%
+}
+
+#fig:hover {
+	background: black;
+}
+
+#pul {
+	background: url("pulp.jpg");
+	background-size: 45%;
+	background-position: center bottom;
+}
+
+#pul:hover {
+	background: black;
+}
+
+#ing {
+	background: url("bastardi.jpg");
+	background-position: center right;
+	background-size: 30%;
+}
+
+#ing:hover {
+	background: black;
+}
+
+#luc {
+	background: url("slevin.jpg");
+	background-position: center center;
+	background-size: 50%;
+}
+
+#luc:hover {
+	background: black;
+}
+
+#tra {
+	background: url("trainspotting.jpg");
+	background-position: center center;
+	background-size: 50%;
+}
+
+#tra:hover {
+	background: black;
+}
+
+#blu {
+	background: url("blues.jpg");
+}
+
+#blu:hover {
+	background: black;
+}
+
+#sol {
+	background: url("soliti.jpg");
+	background-size: 25%;
+}
+
+#sol:hover {
+	background: black;
+}

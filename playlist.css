@@ -1,0 +1,126 @@
+#rapi {
+	background: url("fibra.png");
+}
+
+#rapa {
+	background: url("asap.jpg");
+	background-size: 20%;
+}
+
+#tec {
+	background: url("blaze.jpg");
+	background-position: center center;
+	background-size: 50%;
+}
+
+#ita {
+	background: url("motta.jpg");
+	background-position: center right;
+	background-size: 70%;
+}
+
+#ame {
+	background: url("redhot.jpg");
+	background-position: 700px;
+	background-size: 80%;
+}
+
+#jaz {
+	background: url("chet.jpg");
+	background-position: 350px top;
+	background-size: 30%;
+}
+
+#outro {
+		font-family: "Helvetica Neue";
+		font-size: 25px;
+		font-weight: lighter;
+		text-align: center;
+	}
+
+a {
+	text-decoration: none;
+	font-family: "Avenir Next";
+}
+.sopra {
+	margin-top: 30px;
+}
+
+.sopra a {
+	color: black;
+	font-size: 45px;
+}
+
+.sopra a:hover {
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 1px;
+}
+
+#titolo {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0); 
+	width: 25vw;
+	height: 5vh;
+	//background-color: red;
+}
+
+#back {
+	position: absolute;
+	left: 5%;
+	width: 15vw;	
+	height: 5vh;
+	//background-color: black;
+}
+
+#blocco {	
+	position: absolute;
+	top: 18%;
+	width: 98vw;
+	height: 2000px;
+	//background-color: blue;
+	text-align: center;
+}
+
+#blocco a {
+	font-weight: bolder;
+	color: black;
+	font-size: 90px;
+}
+
+#blocco a:hover {
+	opacity: 0;
+}
+
+#outro {
+	font-family: "Helvetica Neue";
+	font-size: 30px;
+	font-weight: lighter;
+	text-align: center;
+}
+
+#rapi a {
+	color: white;
+}
+
+#rapa a {
+	color: white;
+}
+
+#tec a {
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

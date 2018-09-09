@@ -1,0 +1,71 @@
+.titolo {
+	font-family: "Avenir Next";
+	text-align: center;
+	font-weight: medium;
+	letter-spacing: 1px;
+  	color: black;
+	margin-top: 40px;
+}
+body {
+	background: url("money.gif") center center no-repeat;
+	height:100%;
+	width: 100%;
+	}
+
+nav {
+	margin-top: 70px;
+	font-size: 100px;
+	margin: 40px 15vw;
+	font-family: "Avenir Next";
+	font-weight: bolder;
+}
+
+footer {
+	text-align: left;
+	letter-spacing: 10px;
+	margin-left: 20px;
+}
+
+
+h1 {
+	font-size: 45px;
+}
+
+p {
+	font-family: "Helvetica Neue";
+	text-align: center;
+	color: black;
+	font-size: 25px;
+	padding-top: 67px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+	-webkit-text-fill-color: white; /* Will override color (regardless of order) */
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+}
+
+table a:hover {
+	text-decoration: none;
+	color: black;
+	-webkit-text-fill-color: white; /* Will override color (regardless of order) */
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: black;
+}
+
+table tr, td{
+	width: 50vw;
+	height: 22vh;
+	text-align: center;
+}
+
+table{
+	margin-right: 1vw;
+}

@@ -1,0 +1,62 @@
+.titolo {
+	font-family: "Avenir Next";
+	text-align: center;
+	font-weight: medium;
+	letter-spacing: 1px;
+  	color: white;
+	margin-top: 40px;
+}
+body {
+	background: url("sonic.gif") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	}
+
+nav {
+	margin-top: 70px;
+	font-size: 100px;
+	margin: 40px 15vw;
+	font-family: "Avenir Next";
+	font-weight: bolder;
+}
+
+footer {
+	text-align: left;
+	letter-spacing: 10px;
+	margin-left: 20px;
+}
+
+
+h1 {
+	font-size: 45px;
+}
+
+p {
+	font-family: "Helvetica Neue";
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	margin-top: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+table tr, td{
+	width: 50vw;
+	height: 30vh;
+	text-align: center;
+}
+
+table{
+	margin-right: 1vw;
+}

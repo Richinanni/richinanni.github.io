@@ -1,0 +1,174 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	font-size: 45px;
+	font-family: "Avenir Next";
+	text-align: center;
+	font-weight: medium;
+	letter-spacing: 1px;
+  	color: black;
+	margin-top: 40px;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Helvetica Neue";
+	font-weight: lighter;
+	text-align: center;
+	color: black;
+	margin-top: 40px;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	letter-spacing: 1px;
+}
+
+p {
+	font-family: "Helvetica Neue";
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 67px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-width: 0px;
+	-webkit-text-stroke-color: black;
+}
+
+div a{
+	opacity: 0;
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+div a:hover {
+	opacity: 1;
+	color: white;
+	text-decoration: none;
+}
+
+div {
+	text-align: center;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-family: "Avenir Next";
+	font-weight: bolder;
+	font-size: 90px;
+}
+
+li {
+	list-style: none;
+	margin: 30px;
+}
+
+#bla {
+	background: url("black.jpg");
+	background-size: 100%;
+	background-position: center center;
+}
+
+#bla:hover {
+	background: black;
+}
+
+#wee {
+	background: url("weeds.jpg");
+	background-size: 41%;
+	background-position: center bottom;
+}
+
+#wee:hover {
+	background: black;
+}
+
+#end {
+	background: url("end.jpg");
+	background-position: center center;
+	background-size: 29%;
+}
+
+#end:hover {
+	background: black;
+}
+
+#how {
+	background: url("how.jpg");
+	background-position: center center;
+	background-size: 31%
+}
+
+#how:hover {
+	background: black;
+}
+
+#bre {
+	background: url("breaking.jpg");
+	background-size: 32%;
+	background-position: center center;
+}
+
+#bre:hover {
+	background: black;
+}
+
+#tru {
+	background: url("true.jpg");
+	background-position: center center;
+	background-size: 80%;
+}
+
+#tru:hover {
+	background: black;
+}
+
+#pri {
+	background: url("prison.jpg");
+	background-position: center center;
+	background-size: 100%;
+}
+
+#pri:hover {
+	background: black;
+}
+
+#you {
+	background: url("young.jpg");
+	background-position: center center;
+	background-size: 38%;
+}
+
+#you:hover {
+	background: black;
+}
+
+#pea {
+	background: url("peaky.jpg");
+	background-position: center center;
+	background-size: 21%;
+}
+
+#pea:hover {
+	background: black;
+}
+
+#gam {
+	background: url("game.jpg");
+	background-size: 50%;
+	background-position: center center;
+}
+
+#gam:hover {
+	background: black;
+}
